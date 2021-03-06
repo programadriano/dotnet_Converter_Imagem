@@ -1,6 +1,6 @@
 # .NET Console
 
-Repositório com alguns exemplos de como converter uma imagem para Base64 ou como salvar uma imagem que esta em Base64 em um diretório do seu computador.
+Repositório contendo alguns exemplos práticos demonstrando como converter uma imagem para Base64 ou como salvar uma imagem que esta em Base64 em um diretório do seu computador.
 
 
 ### Classe Helper com os métodos estáticos
