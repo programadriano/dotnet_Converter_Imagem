@@ -10,7 +10,7 @@ Repositório contendo alguns exemplos práticos demonstrando como converter uma 
 class Helper
     {
         /// <summary>
-        /// Download de imagem da internet para convertendo em base64
+        /// Download de imagem da internet, salvando em disco e convertendo em base64
         /// </summary>
         /// <returns></returns>
         public static string ImagemDaInternetParaBase64()
@@ -53,7 +53,7 @@ class Helper
         }
 
         /// <summary>
-        /// Recebendo uma imagem em base64, convertendo ela em um arquivo de imagem em memoria e salvando em disco
+        /// Recebendo uma imagem em base64 e salvando ela em disco
         /// </summary>
         /// <param name="base64String"></param>
         public static void Base64ParaImagem(string base64String)
